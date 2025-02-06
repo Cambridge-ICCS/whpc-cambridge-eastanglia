@@ -2,7 +2,7 @@
 
 Welcome to Cambridge & East Anglia's WHPC Chapter!
 
-![cambridge whpc logo]({{ site.baseurl }}/images/whpc-logo.svg "cambridge whpc logo")
+<!-- ![cambridge whpc logo]({{ site.baseurl }}/images/whpc-logo.svg "cambridge whpc logo") -->
 
 ## Mailing List
 
