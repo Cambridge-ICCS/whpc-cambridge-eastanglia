@@ -19,7 +19,7 @@ learn, and liaise (because who doesn't love a bit of alliteration)
 
 Date: Thursday 27 March 2025
 Time: 12:00 - 17:30
-Location: West Hub, JJ Thomson Ave, Cambridge CB3 0US
+Location: South Room, West Hub, JJ Thomson Ave, Cambridge CB3 0US
 
 Please use the following [link](https://forms.gle/Zg5S8DhBi7GQuQR89) to register. We are looking for speakers to give either a
 lightning talk (5 minutes) or a short talk (15 minutes). If you are interested in giving a talk please select the appropriate
