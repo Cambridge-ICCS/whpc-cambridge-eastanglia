@@ -1,8 +1,4 @@
----
-layout: page
-title: "Charter"
-permalink: /charter
----
+[Home](README.md) | [Charter](charter.md)
 
 # Cambridge & East Anglia WHPC Charter
 

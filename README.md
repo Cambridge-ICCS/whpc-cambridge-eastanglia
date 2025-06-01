@@ -1,3 +1,5 @@
+[Home](README.md) | [Charter](charter.md)
+
 # Welcome
 
 Welcome to Cambridge & East Anglia's WHPC Chapter!
