@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Charter"
 permalink: /charter
+---
 
 # Cambridge & East Anglia WHPC Charter
 
