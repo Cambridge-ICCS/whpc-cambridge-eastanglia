@@ -1,12 +1,12 @@
 [Home](README.md) | [Charter](charter.md)
 
+![cambridge whpc logo]({{ site.baseurl }}/images/whpc-logo.png "cambridge whpc logo")
+
 # Welcome
 
 Welcome to Cambridge & East Anglia's WHPC Chapter!
 
 ![whpc-event](images/whpc-event-img.jpeg)
-
-![cambridge whpc logo]({{ site.baseurl }}/images/whpc-logo.svg "cambridge whpc logo")
 
 ## Upcoming Events
 
