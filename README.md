@@ -10,11 +10,11 @@ Welcome to Cambridge & East Anglia's WHPC Chapter!
 
 ## Upcoming Events
 
-### Thursday, May 21 - Lunchtime Meetup
+### Thursday, May 21 2026 - Lunchtime Meetup
 
-When: Thursday May 21 at 12pm
-Where: Centre for Mathematical Sciences, University of Cambridge
-Specifically: Pavilion A (Central Core) near the reception: [https://www.cms.cam.ac.uk/meeting-rooms](https://www.cms.cam.ac.uk/meeting-rooms)
+- When: Thursday, May 21 2026 at 12 noon
+- Where: Centre for Mathematical Sciences, University of Cambridge
+- Specifically: Pavilion A (Central Core) near the reception: [https://www.cms.cam.ac.uk/meeting-rooms](https://www.cms.cam.ac.uk/meeting-rooms)
 
 (Note that the RSE seminar is being held at 1pm in MR20 in Pavilion E not too far away)
 
