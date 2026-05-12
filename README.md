@@ -14,7 +14,7 @@ Welcome to Cambridge & East Anglia's WHPC Chapter!
 
 When: Thursday May 21 at 12pm
 Where: Centre for Mathematical Sciences, University of Cambridge
-Specifically: Pavilion A (Central Core) near the reception: https://www.cms.cam.ac.uk/meeting-rooms
+Specifically: Pavilion A (Central Core) near the reception: [https://www.cms.cam.ac.uk/meeting-rooms](https://www.cms.cam.ac.uk/meeting-rooms)
 
 (Note that the RSE seminar is being held at 1pm in MR20 in Pavilion E not too far away)
 
@@ -27,10 +27,6 @@ We hope to see you all there!
 ## Past Events
 
 ### Wednesday, 22 April 2026 - RSEEE + WHPC Cambridge&East Anglia Annual Meetup Event
-
-- Date: Wednesday, 22 April 2026
-- Time: 11:30
-- Location: Norwich BioScience Institutes (NBI), Norwich Research Park, Colney Lane, Norwich NR4 7UH
 
 In partnership with [RSEEE](https://east-england.society-rse.org/) and NBI, we hosted an annual meet-up in Norwich.
 
