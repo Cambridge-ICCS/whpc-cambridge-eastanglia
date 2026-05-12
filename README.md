@@ -14,6 +14,16 @@ We'll keep you posted...
 
 ## Past Events
 
+### Wednesday, 22 April 2026 - RSEEE + WHPC Cambridge&East Anglia Annual Meetup Event
+
+Date: Wednesday, 22 April 2026
+Time: 11:30
+Location: Norwich BioScience Institutes (NBI), Norwich Research Park, Colney Lane, Norwich NR4 7UH
+
+In partnership with [RSEEE](https://east-england.society-rse.org/) and NBI, we hosted an annual meet-up in Norwich.
+
+For further details, see the [event webpage](https://rse-whpc.nbi.ac.uk/).
+
 ### Thursday 27th March 2025 - RSEEE + WHPC Cambridge&East Anglia Kick-Off Event
 
 ![whpc-event](images/whpc-event-img.jpeg)
