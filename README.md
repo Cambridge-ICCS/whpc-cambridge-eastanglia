@@ -11,7 +11,7 @@ Welcome to Cambridge & East Anglia's WHPC Chapter!
 ## Upcoming Events
 
 ### Thursday, June 18 1pm - Durham HPC Days
-WHPC Cambridge and East Anglia chapter will be participating in [Durham HPC Days](https://hpc-days.github.io/Durham-HPC-Days-2026)! Look out for committee members Tom Meltzer and Jack Franklin at the session ["We know what to do, so why aren't we doing it? Closing the EDI Implementation Gap with lessons from EuroHPC, UKRI and Beyond"](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-days-2026/we-know-what-we-have-to-do-thursday-session-13-00/) on Thursday 1pm. Come and say "hi" if you're attending in person! Or register for free online attendance [here](https://hpc-days.github.io/Durham-HPC-Days-2026/online/).
+WHPC Cambridge and East Anglia chapter will be participating in [Durham HPC Days](https://hpc-days.github.io/Durham-HPC-Days-2026)! Look out for committee members Tom Meltzer, Marion Weinzierl and Jack Franklin at the session ["We know what to do, so why aren't we doing it? Closing the EDI Implementation Gap with lessons from EuroHPC, UKRI and Beyond"](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-days-2026/we-know-what-we-have-to-do-thursday-session-13-00/) on Thursday 1pm. Come and say "hi" if you're attending in person! Or register for free online attendance [here](https://hpc-days.github.io/Durham-HPC-Days-2026/online/).
 
 ## Past Events
 
