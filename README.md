@@ -10,21 +10,21 @@ Welcome to Cambridge & East Anglia's WHPC Chapter!
 
 ## Upcoming Events
 
-### Thursday, May 21 2026 - Lunchtime Meetup
-
-- When: Thursday, May 21 2026 at 12 noon
-- Where: Centre for Mathematical Sciences, University of Cambridge
-- Specifically: Pavilion A (Central Core) near the reception: [https://www.cms.cam.ac.uk/meeting-rooms](https://www.cms.cam.ac.uk/meeting-rooms)
-
-(Note that the RSE seminar is being held at 1pm in MR20 in Pavilion E not too far away)
-
-Lunch and drinks will be provided, of course, starting from 12pm until 2pm, but there is no requirement to be there for the full time, you can join us for a little or as long as you like! 
-
-Thanks to everyone who filled in our poll! This is a very informal meetup so please feel free to come along, even if you didn't get a chance to register. However, if you have a specific dietary requirement, please do get in touch with us so that we can accommodate your needs. 
-
-We hope to see you all there!
+### Thursday, June 18 1pm - Durham HPC Days
+WHPC Cambridge and East Anglia chapter will be participating in [Durham HPC Days](https://hpc-days.github.io/Durham-HPC-Days-2026)! Look out for committee members Tom Meltzer, Marion Weinzierl and Jack Franklin at the session ["We know what to do, so why aren't we doing it? Closing the EDI Implementation Gap with lessons from EuroHPC, UKRI and Beyond"](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-days-2026/we-know-what-we-have-to-do-thursday-session-13-00/) on Thursday 1pm. Come and say "hi" if you're attending in person! Or register for free online attendance [here](https://hpc-days.github.io/Durham-HPC-Days-2026/online/).
 
 ## Past Events
+
+### Thursday, May 21 2026 - Lunchtime Meetup
+
+We hosted our inaugural WHPC Cambridge and East Anglia lunch on Thursday May 21, 2026 in the Centre for Mathematical Sciences. It was great to see our members in person enjoying the delicious lunch (and dessert!) generously provided by Research Computing Services, University of Cambridge. It was especially nice to see new faces!
+
+We hope to see many more of you at future events! 
+
+![whpc-lunch-1](images/1000035010.jpg)
+![whpc-lunch-2](images/1000035004.jpg)
+![whpc-lunch-3](images/1000035016.jpg)
+
 
 ### Wednesday, 22 April 2026 - RSEEE + WHPC Cambridge&East Anglia Annual Meetup Event
 
