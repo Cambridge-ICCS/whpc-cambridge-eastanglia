@@ -19,7 +19,7 @@ WHPC Cambridge and East Anglia chapter will be participating in [Durham HPC Days
 
 We hosted our inaugural WHPC Cambridge and East Anglia lunch on Thursday May 21, 2026 in the Centre for Mathematical Sciences. It was great to see our members in person enjoying the delicious lunch (and dessert!) generously provided by Research Computing Services, University of Cambridge. It was especially nice to see new faces! 
 
-We hope to see many more of you at future events! 
+We hope to see many more of you at future events!
 
 ![whpc-lunch-1](images/1000035010.jpg)
 ![whpc-lunch-2](images/1000035004.jpg)
